@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidChecklist</string>
+    <string name="list">List</string>
+    <string name="button">button</string>
+    <string name="bottom">bottom</string>
+    <string name="top">top</string>
+</resources>
